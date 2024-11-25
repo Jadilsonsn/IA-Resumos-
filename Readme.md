@@ -11,5 +11,7 @@ LangChain: para gerenciar fluxos e otimizar interações com o modelo de linguag
 
 Links: 
 https://www.langchain.com/ 
+
 https://streamlit.io/ 
+
 https://platform.openai.com/docs/overview 
